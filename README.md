@@ -25,7 +25,7 @@ https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com
 ```
 Open the Boards Manager from Tools > Board:xxxxx menu
 
-![board manager](https://github.com/pastaCLS/heltec/blob/master/images/board-manager.jpg?raw=true)
+![board manager](https://github.com/pastaCLS/heltec/blob/master/images/board-manager.png?raw=true)
 
 Find esp8266 by ESP8266 Community in the list and click Install
 
