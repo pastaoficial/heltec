@@ -12,6 +12,6 @@ This board is based on the ESP8266 chip and has onboard WiFi,  a 0.96inch 128 * 
 ## Setting Up the Arduino IDE for the ESP8266 Range
 
 I made the setup in the following arduino's version:
-![arduino version](https://github.com/pastaCLS/heltec/blob/master/images/arduino-version.jpg?raw=true)
+![arduino version](https://github.com/pastaCLS/heltec/blob/master/images/version-arduino.jpg?raw=true)
 
 
