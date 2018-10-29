@@ -14,4 +14,7 @@ This board is based on the ESP8266 chip and has onboard WiFi,  a 0.96inch 128 * 
 I made the setup in the following arduino's version:
 ![arduino version](https://github.com/pastaCLS/heltec/blob/master/images/version-arduino.jpg?raw=true)
 
+and ubuntu:
+![ubuntu version](https://github.com/pastaCLS/heltec/blob/master/images/version-ubuntu.jpg?raw=true)
+
 
