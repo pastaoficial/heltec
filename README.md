@@ -15,6 +15,13 @@ I made the setup in the following arduino's version:
 ![arduino version](https://github.com/pastaCLS/heltec/blob/master/images/version-arduino.jpg?raw=true)
 
 and ubuntu:
+
 ![ubuntu version](https://github.com/pastaCLS/heltec/blob/master/images/version-ubuntu.jpg?raw=true)
+
+In the IDE, open the File Menu->Preferences and in the field "Additional Board Manager URLs enter:
+
+```
+https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
+```
 
 
