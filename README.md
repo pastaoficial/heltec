@@ -58,7 +58,7 @@ U8g2 could be installed using de Arduino IDE library Manager. Open Sketch->Inclu
 
 and paste the following code:
 
-```arduino
+```c
 #include <U8g2lib.h>
 
 //U8g2 Contructor
