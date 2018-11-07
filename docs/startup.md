@@ -117,3 +117,7 @@ U8X8_SSD1306_128X32_UNIVISION_HW_I2C u8x8(/* reset=*/ U8X8_PIN_NONE, /* clock=*/
 ```
 
 the sample complete is in the [samples folder](../samples/helloworld.ino)
+
+and the final result is:
+
+![pimentero](../images/pimentero.jpg)
