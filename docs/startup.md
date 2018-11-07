@@ -107,3 +107,13 @@ void loop(void) {
 }
 
 ```
+
+# print text in the oled
+
+Only we need to load the sample in File->Samples->u8g2->full buffer->HelloWorld and uncomment the following line in order to set the oled:
+
+``` c
+U8X8_SSD1306_128X32_UNIVISION_HW_I2C u8x8(/* reset=*/ U8X8_PIN_NONE, /* clock=*/ SCL, /* data=*/ SDA);   // pin remapping with ESP8266 HW I2C
+```
+
+the sample complete is in the [samples folder](../samples/helloworld.ino)
