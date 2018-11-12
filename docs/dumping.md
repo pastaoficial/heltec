@@ -28,4 +28,29 @@ con zoom
 
 para conectarlo nos basamos en el datasheet
 
+* channel 1 a CS
+* channel 2 a MISO (DO)
+* channel 3 a MOSI (DI)
+* channel 4 a CLK
+
 ![datasheet](../images/winbond.png)
+
+and configure the logic saleae software to read in the edge of CS
+
+![saleae](../images/configuration.png)
+
+![rising](../images/risingedge.png)
+
+le damos a start y
+
+![sniffing](../images/sniffing.png)
+
+y configuramos el decodificar de spi 
+
+![spi](../images/spi.png)
+
+y ahora podemos ver los paquetes en crudo
+
+![decoded](../images/decoded.png)
+
+
